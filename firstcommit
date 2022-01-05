@@ -13,3 +13,4 @@ git push -u origin main
   #
   #   modified:   readme.md
   #git commit -m "docs updated for feature A"
+git status
