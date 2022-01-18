@@ -1,0 +1,5 @@
+C:\dev\Repos\MadHattressProject\MadHattressProject\obj\Debug\net6.0\ConsoleDemo1.csproj.AssemblyReference.cache
+C:\dev\Repos\MadHattressProject\MadHattressProject\obj\Debug\net6.0\ConsoleDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Repos\MadHattressProject\MadHattressProject\obj\Debug\net6.0\ConsoleDemo1.AssemblyInfoInputs.cache
+C:\dev\Repos\MadHattressProject\MadHattressProject\obj\Debug\net6.0\ConsoleDemo1.AssemblyInfo.cs
+C:\dev\Repos\MadHattressProject\MadHattressProject\obj\Debug\net6.0\ConsoleDemo1.csproj.CoreCompileInputs.cache
